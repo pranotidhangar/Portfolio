@@ -32,7 +32,7 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Bteh in E&TC</div>
+							<div className="work-title">Btech in E&TC</div>
 							<div className="work-subtitle">
 								KCES's COEM, Jalgaon
 								<div>CGPA - 8.5</div>
