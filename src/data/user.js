@@ -17,13 +17,13 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Java Full Stack Developer, and ECE Engineer.",
+		title: "Java Full Stack Developer, and Electronics Engineer.",
 		description:
 			"I am a Java Full Stack Developer with expertise in building scalable, secure, and reliable web applications using Java, Spring Boot, Hibernate, React.js, and other modern frameworks and technologies. I have hands-on experience in both frontend and backend development, including designing RESTful APIs, working with relational databases, and implementing responsive user interfaces. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set. I am passionate about writing high-quality, maintainable code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a full stack developer.",
 	},
 
 	about: {
-		title: "I’m Pranoti Dhangar. I live in Pune, where I design the future.",
+		title: "I’m Pranoti Dhangar. I live in Thane, where I design the future.",
 		description:
 			"I've worked on a variety of skills and  projects and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
